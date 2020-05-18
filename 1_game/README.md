@@ -1,19 +1,44 @@
-# Python: Flappy Bird
+# Flappy Bird ft. Yogi
+## (Day 1: Game Development)
 
-### Description
-This is a Flappy Bird clone, one of my first python projects. It was made using [python-pygame](http://www.pygame.org/hifi.html) and basic programming concepts.
+### A modification of Flappy Bird, built using [PyGame](https://www.pygame.org/), with additional comments and customized graphics. 'Built' in one day!
 
-### How to play
-1. Install Python 2.7.X from [here](https://www.python.org/download/releases/)
-2. Install PyGame 1.9.X from [here](http://www.pygame.org/download.shtml)
-3. Clone this repository: `git clone https://github.com/PopAdi/python-flappy-bird.git` or click `Download ZIP` in the right panel and extract it.
-4. Run `python Flappy\ Bird.py` from the repo's directory
-5. Use <kbd>Space</kbd> or left-mouse-button to jump or <kbd>Esc</kbd> to exit.
+![app demo](/1_game/demo.gif)
 
-![image-1](http://i.imgur.com/b2AfQZm.png?1)
-![image-2](http://i.imgur.com/O6xQS0C.png?1)
-![image-3](http://i.imgur.com/2F0VXBQ.png?1)
-![image-4](http://i.imgur.com/KZtHqAr.png?1)
+#### 📸YouTube Tutorial: [https://youtu.be/mjigxyteyGA](https://youtu.be/mjigxyteyGA)
 
-### Contribution
-If you have any ideas to make the game better, feel free to contribute!
+## Inspiration
+Despite Python in college and doing my fair share of programming projects, I never made a game before! Since I knew that one day of 'coding' would involve mostly *learning* how to make a game, most of this project involves commenting out and studying [existing code](https://github.com/popadi/python-flappy-bird), and adding my own fun touches.
+
+## Installation
+1. Install Python 3.7.x if necessary (instuctions [here](https://realpython.com/installing-python))
+
+    `$ python --version  # check version number if you're not sure`
+
+2. Install PyGame
+
+    `$ python3 -m pip install -U pygame --user`
+
+## Usage
+#### To run the game:
+    $ python FlappyYogi.py
+
+#### To play the game:
+1. Press <kbd>Space</kbd> to start the game and to move the dog up or down.
+2. The objective is to keep the dog 'flying' and squeeze between the obstacles. Once the dog collides with an obstacle, he will fall, signaling the end of a game. Press any <kbd>key</kbd> to start a new round.
+3. The game can be exited at any time by pressing <kbd>Esc</kbd>.
+
+## Thanks
+
+* [Python Flappy Bird Project](https://github.com/popadi/python-flappy-bird) - All of the code presented here is based off this project.
+* [Pixel Art Maker](http://pixelartmaker.com/) - A cool tool to make and share pixel art.
+
+## Learn More
+
+* [PyGame Primer](https://realpython.com/pygame-a-primer/) - A quick tutorial on PyGame that you can follow along with.
+* [PyGame Tutorial](https://www.youtube.com/watch?v=FfWpgLFMI7w) - A great (2 hour) PyGame tutorial by FreeCodeCamp.
+* [Python and PyGame Book](http://inventwithpython.com/pygame/) - An even more comprehensive guide to game development using PyGame.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

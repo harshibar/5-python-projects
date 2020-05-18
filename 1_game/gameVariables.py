@@ -2,9 +2,8 @@
 import pygame
 from pygame.locals import *
 
-# global variables
+# global variables to initialize the game and set proper proportions
 
-#Global variables for the game
 gameWidth = 300                         #Game window gameWidth
 gameHeight = 500                        #Game window gameHeight
 FPS = 60                                #Frames per second
