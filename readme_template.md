@@ -1,37 +1,32 @@
-# Day x: Project Title 😊
+# Project Name 😊
+#### 5 Python Projects in 5 Days - Day x: Category
 
-One sentence explanation.
+A one sentence description of the project.
 
-![a nice image/GIF of the app](/1_game/images/yogi2big.png)
+![app demo](/1_game/images/yogi.png)
 
-📸Video Tutorial: [https://youtube.com/c/harshibar](https://youtube.com/c/harshibar)
+**📸YouTube Tutorial: [https://www.youtube.com/harshibar](https://www.youtube.com/harshibar)**
 
 ## Inspiration
-2-3 sentences on why I wanted to create this project.
+I was inspired to make this project
 
 ## Installation
+1. Install Python 3.7.x if necessary (instuctions [here](https://realpython.com/installing-python))
 
-```
-$ pip install python
-```
+    `$ python --version  # check version number if you're not sure`
 
 ## Usage
 #### To do something:
-    $ python something.py
-
-#### To do something else:
-    $ python something2.py
+    $ python project.py
 
 ## Thanks
 
-* [This gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - for inspiring this template
+* Python for being so great
 
 ## Learn More
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Google](www.google.com) - I love Google.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/harshibar/5-python-projects/blob/master/LICENSE) file for details.
