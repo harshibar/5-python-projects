@@ -5,7 +5,7 @@ This is a collection of **5 beginner Python projects**. Last week, I challenged 
 
 ## **How** does it work?
 Every day by 7AM PST, I will be adding a new project to [this repository](https://github.com/harshibar/5-python-projects) in the following categories:
-1. Game Development (Flappy Bird ft. Yogi)
+1. [Game Development (Flappy Bird ft. Yogi)](https://github.com/harshibar/5-python-projects/tree/master/1_game)
 2. Machine Learning
 3. Web Development
 4. Data Visualization
