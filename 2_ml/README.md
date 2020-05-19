@@ -9,7 +9,7 @@ An exploration of how to use OpenAI Gym to teach an AI to play games, from basic
 #### Atari Pong:
 ![mountain car](/2_ml/pong.gif)
 
-**📸YouTube Tutorial: [https://www.youtube.com/harshibar](https://www.youtube.com/harshibar)**
+**📸YouTube Tutorial: [https://youtu.be/xLYuAHjcErg](https://youtu.be/xLYuAHjcErg)**
 
 ## Inspiration
 I took one Machine Learning class in school, but even after that, I never really branched out in my ML projects beyond plugging in some SciKitLearn packages and crossing my fingers. So, for this project, I wanted to learn something way out of my comfort zone, even if it meant that I couldn't create something completely original. So, I spent a day learning about reinforcement learning and Deep Q Learning, and taught an AI to play some games (with a lot of help). 🙏🏾
