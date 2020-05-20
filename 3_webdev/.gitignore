@@ -1,1 +1,5 @@
+# has API keys
 config.*
+
+# kaggle data
+catalog.csv

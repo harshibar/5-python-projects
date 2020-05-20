@@ -41,6 +41,7 @@ Once the Flask app is running, navigate to the `localhost` link provided:
 
 * [Open Movie Database](http://www.omdbapi.com/) - Movie data API to fetch movie poster links and IMDB scores
 * [Kaggle Netflix Dataset](https://www.kaggle.com/shivamb/netflix-shows) - Comprehensive dataset with many Netflix movies/tv shows and their metadata
+* [Flask Starter Code](https://github.com/salvillalon45/SPGISummer2018-FlaskTutorial) - A place to get started with Flask code
 
 ## Learn More
 
