@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>About</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='images/favicon.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/about.css') }}">
+
+    <script src="https://use.fontawesome.com/3fa36ae73c.js"></script>
+
+  </head>
+  <body>
+    {% extends "template.html" %}
+    {% block content %}
+
+    <div class="container">
+      <h1> Hey! </h1>
+      <p> This app was created with 💜 by <a href="https://youtube.com/c/harshibar" target="_blank">harshibar</a> in one day.</p>
+      <p> Feel free to try it out to Netflix and ~chill~ while in quarantine.</p>
+      <p> Or, if you want to make this crappy code better, go ahead!</p>
+      <p> Here is the code on <i class="fa fa-github" aria-hidden="true"></i>
+</p>
+    </div>
+
+    {% endblock %}
+  </body>
+</html>

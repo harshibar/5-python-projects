@@ -1,0 +1,9 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logo {
+  background-color: #0D122B;
+  padding: 10px;
+  color: white;
+}

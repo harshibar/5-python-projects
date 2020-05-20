@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Netflix Matrimony</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='images/favicon.ico') }}">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+
+    <script src="https://use.fontawesome.com/3fa36ae73c.js"></script>
+  </head>
+  <body>
+    {% extends "template.html" %}
+    {% block content %}
+    <div class="container master">
+      <div>
+        <a href="{{ url_for('home') }}">
+          <button class="button downvote">
+              <i class="fa fa-times fa-3x"></i>
+          </button>
+        </a>
+      </div>
+
+      <div class="movie-card">
+        <img src={{movie.image}} alt="movie">
+        <div class="text">
+          <h4><b>{{movie.title}}</b></h4>
+          <p class="marker"> <i class="fa fa-imdb" aria-hidden="true"></i> {{movie.imdb}}/10</p>
+            <p class="marker"><i class="fa fa-calendar" aria-hidden="true"></i> {{movie.release_year}}</p>
+          <p class="marker"> <i class="fa fa-film" aria-hidden="true"></i> {{movie.genre}}</p>
+          <p class="marker"> <i class="fa fa-clock-o" aria-hidden="true"></i> {{movie.duration}} </p>
+            <p class="marker"> <i class="fa fa-globe" aria-hidden="true"></i> {{movie.country}}</p>
+          <hr>
+          <p>{{movie.description}}</p>
+        </div>
+      </div>
+
+      <div>
+        <a href="{{ url_for('home') }}">
+          <button class="button heart">
+            <i class="fa fa-heart fa-2x"></i>
+          </button>
+        </a>
+      </div>
+    </div>
+
+    <div class="container">
+      <div>
+        <button class="button watch" onclick="window.open('https://www.netflix.com/watch/{{movie.id}}', '_blank')"target='0'>
+          Watch Now!
+          <i class="fa fa-star"></i>
+        </button>
+      </div>
+    </div>
+
+    {% endblock %}
+  </body>
+</html>
