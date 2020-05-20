@@ -7,7 +7,7 @@ This is a collection of **5 beginner Python projects**. Last week, I challenged 
 Every day by 7AM PST, I will be adding a new project to [this repository](https://github.com/harshibar/5-python-projects) in the following categories:
 1. [Game Development (Flappy Bird ft. Yogi)](https://github.com/harshibar/5-python-projects/tree/master/1_game)
 2. [Machine Learning (Teaching an AI to play Ping Pong)](https://github.com/harshibar/5-python-projects/tree/master/2_ml)
-3. Web Development
+3. [Web Development ('Tinder' for Netflix)](https://github.com/harshibar/5-python-projects/tree/master/3_webdev)
 4. Data Visualization
 5. Scripting
 
