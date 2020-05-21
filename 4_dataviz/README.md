@@ -7,6 +7,8 @@ A collection of data visualizations using Plotly to analyze everything I bought,
 
 **📸YouTube Tutorial: [https://www.youtube.com/harshibar](https://www.youtube.com/harshibar)**
 
+**Try it out for yourself on [Kaggle](https://www.kaggle.com/harshibar/animal-crossing-analysis)!**
+
 ## Inspiration
 Animal Crossing is a social simulation game where you are plopped on a deserted island, and have to build up a village from scratch. It sounds super random, but, as the internet has proved, is incredibly addicting. A huge part of this game involves acquiring items around your island and selling them to expand your home or the island setup. So, I wanted to analyze different trends in the types of items I collect, their cumulative value, and how I can optimize my time to make big bucks in the game. 💸
 
