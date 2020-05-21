@@ -8,7 +8,7 @@ Every day by 7AM PST, I will be adding a new project to [this repository](https:
 1. [Game Development (Flappy Bird ft. Yogi)](https://github.com/harshibar/5-python-projects/tree/master/1_game)
 2. [Machine Learning (Teaching an AI to play Ping Pong)](https://github.com/harshibar/5-python-projects/tree/master/2_ml)
 3. [Web Development ('Tinder' for Netflix)](https://github.com/harshibar/5-python-projects/tree/master/3_webdev)
-4. [Data Visualization (Animal Crossing Analysis)](https://github.com/harshibar/5-python-projects/tree/master/3_webdev)
+4. [Data Visualization (Animal Crossing Analysis)](https://github.com/harshibar/5-python-projects/tree/master/4_dataviz)
 5. Scripting
 
 Each project folder will include the code itself, usage instructions, and additional resources. I'll also be uploading a corresponding video on my [YouTube channel](https://youtube.com/c/harshibar); each 4-6 minute video will show what inspired the project and its basic building blocks. 📺
