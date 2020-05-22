@@ -1,0 +1,3 @@
+[submodule "5_scripting"]
+	path = 5_scripting
+	url = https://github.com/harshibar/common-intern
